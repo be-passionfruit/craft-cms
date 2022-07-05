@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: Thomasdelah
+primary: true
+siteGroup: 761528e7-9c96-497f-b99d-9bfec8823ccf # Thomasdelah
+sortOrder: 1

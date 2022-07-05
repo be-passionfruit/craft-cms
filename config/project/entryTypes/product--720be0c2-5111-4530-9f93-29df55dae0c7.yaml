@@ -1,0 +1,67 @@
+fieldLayouts:
+  fef22624-9329-4a62-abea-137c0c0ac26d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 1c45c789-894e-4344-9b02-8a02e060ddc8
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: c233a620-07fb-4c92-ad25-061c1c5869db # Description
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3e50b387-ba31-4735-ad34-4ab79c119df2
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 33f654a5-b0c4-4f38-b6d8-970808809a5d # Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 903e2bc7-e6af-4b49-9cb6-ebec4a6721ad
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: dfed54b7-da74-4202-86e5-af945dcb2af3
+        userCondition: null
+handle: product
+hasTitleField: true
+name: Product
+section: 344d866f-6a62-4ec2-b3ce-cb4c097f8141 # Product
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

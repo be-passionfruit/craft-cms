@@ -1,0 +1,19 @@
+columnSuffix: xnzwpiws
+contentColumnType: text
+fieldGroup: ddbdc373-fbfc-4d7b-b163-1afb1189b7a4 # Product
+handle: description
+instructions: null
+name: Description
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: true
+  columnType: null
+  initialRows: 4
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

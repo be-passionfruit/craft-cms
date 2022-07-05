@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: product
+name: Product
+propagationMethod: all
+siteSettings:
+  235e7c56-172a-4665-beea-9d9569100581: # Thomasdelah
+    enabledByDefault: true
+    hasUrls: true
+    template: product/_entry
+    uriFormat: 'product/{slug}'
+type: channel
